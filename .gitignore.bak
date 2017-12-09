@@ -1,0 +1,14 @@
+
+.gitignore
+git*.class
+
+#myeclipse ignore
+.setting/
+.myeclipse/
+.project
+.classpatch
+.mymetadata
+
+
+
+
